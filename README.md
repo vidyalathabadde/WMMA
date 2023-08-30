@@ -5,7 +5,7 @@ This interface is intended to unify different tensor hardware: Intel AMX in CPUs
 
 | Area              | Description
 |:---                   |:---
-| What you will learn              | Migrate cudaTensorCoreGemm from CUDA to SYCL and optimize it
+| What you will learn              | Migrate cudaTensorCoreGemm from CUDA to SYCL
 | Time to complete              | 15 minutes
 | Category                      | Concepts and Functionality
 
