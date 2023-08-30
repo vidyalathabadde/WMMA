@@ -48,7 +48,7 @@ This sample demonstrates the migration of the following CUDA features:
 - Shared memory
 - Element-wise operations in CUDA
 
-## Build the `convolutionSeparable` Sample for AMX and XMX hardware
+## Build the `cudaTensorCoreGemm` Sample for AMX and XMX hardware
 
 > **Note**: If you have not already done so, set up your CLI
 > environment by sourcing  the `setvars` script in the root of your oneAPI installation.
